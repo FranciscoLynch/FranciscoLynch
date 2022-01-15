@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @FranciscoLynch, 18yo. 
-- 👀 I’m interested in learn all that i can about programming.
-- 🌱 I’m currently learning HTML/CSS in FreeCodeCamp, doing some projects to practice and get better.
-- 💞️  I’m looking to collaborate on any project that allows me to gain experience and improve.
+- 👋 Hi, I’m @FranciscoLynch, 19yo. 
+- 👀 I’m interested in learn about differents languages of backend.
+- 🌱 I’m currently learning backend with NodeJS in Acamica.
+- 💞️ I’m looking to collaborate on any project that allows me to gain experience and improve.
 - 📫 How to reach me: send a mail to lynch_francisco_w@hotmail.com
 
 <!---
